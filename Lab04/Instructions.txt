@@ -1,0 +1,8 @@
+a、原图
+b、Laplacian a
+c、a + b
+d、Sobel gradient a
+e、均值滤波 d
+f、c * e
+g、a + f
+h、伽马校正 g
