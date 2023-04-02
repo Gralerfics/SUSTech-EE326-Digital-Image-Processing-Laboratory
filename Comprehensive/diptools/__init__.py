@@ -1,5 +1,5 @@
 __all__ = [
-    'persistance',
+    'persistence',
     'regulator',
     'interpolation',
     'linear',
